@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="w-full bg-white">
-      <div className="mx-auto flex max-w-8xl items-center justify-between py-6">
+      <div className="mx-auto flex max-w-[1440px] items-center justify-between py-6">
         <div className="flex items-center gap-8">
           <div className="h-[38px] w-[165px]">
             <img
