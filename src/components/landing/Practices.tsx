@@ -33,7 +33,7 @@ export default function Practices() {
   ]
 
   return (
-    <section className="w-full bg-white py-[120px] px-20">
+    <section className="w-full bg-white py-[120px]">
       <div className="mx-auto flex max-w-8xl items-start gap-10">
         <div className="flex flex-col items-start gap-6">
           <h2 className="max-w-[385px] whitespace-pre-line font-poppins text-[56px] font-semibold leading-[64.4px] text-black">

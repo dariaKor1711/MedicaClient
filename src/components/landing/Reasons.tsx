@@ -1,6 +1,6 @@
 export default function Reasons() {
   return (
-    <section className="w-full bg-white py-[120px] px-20">
+    <section className="w-full bg-white py-[120px]">
       <div className="mx-auto flex max-w-8xl flex-col gap-[120px]">
         {/* Reason 1 - Dedicated doctors */}
         <div className="flex items-center gap-10">

@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="w-full bg-white">
-      <div className="mx-auto flex max-w-8xl items-start justify-between px-20 py-0">
+      <div className="mx-auto flex max-w-8xl items-start justify-between py-0">
         <div className="flex h-full flex-col items-start justify-center gap-12 py-6">
           <div className="flex flex-col items-start gap-4">
             <h1 className="max-w-[750px] font-poppins text-[62px] font-semibold leading-[74px] text-black">

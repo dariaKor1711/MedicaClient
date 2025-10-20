@@ -7,7 +7,7 @@ export default function Search() {
   ]
 
   return (
-    <section className="w-full border-b border-azure-74 bg-white py-0 px-20">
+    <section className="w-full border-b border-azure-74 bg-white py-0">
       <div className="mx-auto flex max-w-8xl items-start gap-10 h-[767.355px]">
         <div className="flex h-full flex-col items-start gap-6 justify-start">
           <h2 className="max-w-[385px] font-poppins text-[56px] font-semibold leading-[64.4px] text-black w-[314px]">

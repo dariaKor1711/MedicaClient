@@ -19,7 +19,7 @@ export default function Features() {
 
   return (
     <section className="w-full bg-primary py-20">
-      <div className="mx-auto flex max-w-8xl items-center gap-12 px-20">
+      <div className="mx-auto flex max-w-8xl items-center gap-12">
         {features.map((feature, index) => (
           <div
             key={index}

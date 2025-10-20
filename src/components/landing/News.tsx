@@ -27,7 +27,7 @@ export default function News() {
   ]
 
   return (
-    <section className="w-full bg-white py-[120px] px-20 pb-[200px]">
+    <section className="w-full bg-white py-[120px] pb-[200px]">
       <div className="mx-auto flex max-w-8xl flex-col items-center gap-20">
         <div className="flex flex-col items-center gap-6">
           <h2 className="max-w-[600px] font-poppins text-[56px] font-semibold leading-[64.4px] text-center text-black">

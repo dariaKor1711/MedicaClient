@@ -1,6 +1,6 @@
 export default function CallToAction() {
   return (
-    <section className="w-full bg-white py-0 px-20 pb-[120px]">
+    <section className="w-full bg-white py-0 pb-[120px]">
       <div className="mx-auto max-w-8xl">
         <div className="flex w-full flex-col items-center gap-16 bg-primary px-20 py-20 rounded-lg">
           <div className="flex flex-col items-center gap-4">

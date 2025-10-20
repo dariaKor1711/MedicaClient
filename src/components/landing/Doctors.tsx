@@ -40,7 +40,7 @@ export default function Doctors() {
         </p>
       </div>
 
-      <div className="absolute left-20 right-0 top-[343px] flex max-w-8xl items-center gap-16">
+      <div className="absolute left-0 right-0 top-[343px] flex max-w-8xl items-center gap-16 mx-auto px-20">
         {/* Navigation buttons */}
         <div className="flex flex-col items-center gap-[67.01px]">
           <button className="flex h-[60px] w-[60px] items-center justify-center hover:opacity-70 transition-opacity">

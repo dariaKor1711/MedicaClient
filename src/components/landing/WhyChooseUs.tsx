@@ -1,6 +1,6 @@
 export default function WhyChooseUs() {
   return (
-    <section className="w-full bg-gray-90 py-[120px] px-20">
+    <section className="w-full bg-gray-90 py-[120px]">
       <div className="mx-auto flex max-w-8xl flex-col items-center gap-20">
         <div className="flex w-full flex-col items-center gap-4">
           <h2 className="max-w-[600px] font-poppins text-[56px] font-semibold leading-[64.4px] text-center text-black">
